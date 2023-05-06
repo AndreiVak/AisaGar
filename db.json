@@ -1,0 +1,349 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "../assets/products/menu1.png",
+      "title": "Ягненок",
+      "description": "Фаршированный гречневой кашей, курагой, апельсином и зеленым яблоком",
+      "price": 470,
+      "weight": 225,
+      "protein": 20,
+      "fats": 8,
+      "carbohydrates": 30,
+      "calories": 250,
+      "categories": "grill"
+    },
+    {
+      "id": 2,
+      "image": "../assets/products/menu2.png",
+      "title": "Индейка",
+      "description": "Фаршированный гречневой кашей, курагой, апельсином и зеленым яблоком",
+      "price": 450,
+      "weight": 225,
+      "protein": 20,
+      "fats": 8,
+      "carbohydrates": 30,
+      "calories": 250,
+      "categories": "grill"
+    },
+    {
+      "id": 4,
+      "image": "../assets/products/menu4.png",
+      "title": "Утка",
+      "description": "Фаршированная рисом, курагой и айвой",
+      "price": 3230,
+      "weight": 245,
+      "protein": 22,
+      "fats": 8,
+      "carbohydrates": 21,
+      "calories": 225,
+      "categories": "grill"
+    },
+    {
+      "id": 5,
+      "image": "https://snob.ru/i/indoc/80/blog_entry_184142.jpg",
+      "title": "Гаргуйу",
+      "description": "Салат от Мишеля Браса",
+      "price": 850,
+      "weight": 150,
+      "protein": 14,
+      "fats": 6,
+      "carbohydrates": 18,
+      "calories": 190,
+      "categories": "Салаты"
+    },
+    {
+      "id": 6,
+      "image": "https://www.gastronom.ru/binfiles/images/20221221/b48257b4.jpg",
+      "title": "Канапе с языком",
+      "description": "Канапе – исключительно праздничное блюдо",
+      "price": 650,
+      "weight": 250,
+      "protein": 12,
+      "fats": 10,
+      "carbohydrates": 18,
+      "calories": 230,
+      "categories": "cold"
+    },
+    {
+      "id": 7,
+      "image": "https://www.gastronom.ru/binfiles/images/20221215/b7719c19.jpg",
+      "title": "Канапе с креветок",
+      "description": "Канапе с креветками и ананасами – простая в приготовлении и в то же время очень праздничная",
+      "price": 950,
+      "weight": 250,
+      "protein": 12,
+      "fats": 10,
+      "carbohydrates": 18,
+      "calories": 250,
+      "categories": "cold"
+    },
+    {
+      "id": 8,
+      "image": "https://www.gastronom.ru/binfiles/images/20220905/b01bfcf4.jpg",
+      "title": "Кукуруза",
+      "description": "Кукуруза получается невероятно нежной и сочной, а еще — очень ароматной за счет чеснока",
+      "price": 550,
+      "weight": 280,
+      "protein": 16,
+      "fats": 4,
+      "carbohydrates": 16,
+      "calories": 178,
+      "categories": "cold"
+    },
+    {
+      "id": 9,
+      "image": "https://www.gastronom.ru/binfiles/images/20220508/beb2a18d.jpg",
+      "title": "Ягодные канапе",
+      "description": "Ягодные канапе с лимонным бисквитом – легкий летний десерт",
+      "price": 635,
+      "weight": 180,
+      "protein": 12,
+      "fats": 4,
+      "carbohydrates": 16,
+      "calories": 118,
+      "categories": "cold"
+    },
+    {
+      "id": 10,
+      "image": "https://www.gastronom.ru/binfiles/images/20211221/bb177dcd.jpg",
+      "title": "Паштет из лосося",
+      "description": "Пашет из двух видов лосося - запеченного и копченого",
+      "price": 835,
+      "weight": 230,
+      "protein": 12,
+      "fats": 4,
+      "carbohydrates": 16,
+      "calories": 220,
+      "categories": "cold"
+    },
+    {
+      "id": 11,
+      "image": "https://www.gastronom.ru/binfiles/images/20211221/b50df2fa.jpg",
+      "title": "Эльзасский мусс",
+      "description": "Такой паштет лучше всего подавать с булочками бриошь",
+      "price": 655,
+      "weight": 220,
+      "protein": 12,
+      "fats": 4,
+      "carbohydrates": 16,
+      "calories": 270,
+      "categories": "cold"
+    },
+    {
+      "id": 12,
+      "image": "https://static.1000.menu/res/640/img/content-v2/2c/e3/56206/sufle-iz-kuricy-v-duxovke_1625166762_1_max.jpg",
+      "title": "Суфле из курицы",
+      "description": "Из простых продуктов, легкое и вкусное, для всей семьи",
+      "price": 455,
+      "weight": 270,
+      "protein": 12,
+      "fats": 4,
+      "carbohydrates": 16,
+      "calories": 240,
+      "categories": "cold"
+    },
+    {
+      "id": 13,
+      "image": "https://www.gastronom.ru/binfiles/images/20170228/b8dbdce8.jpg",
+      "title": "Салат греческий",
+      "description": "Со вкусом сочных помидоров и оливок, а также нежнейшей маслянистой фетой",
+      "price": 755,
+      "weight": 240,
+      "protein": 12,
+      "fats": 4,
+      "carbohydrates": 16,
+      "calories": 200,
+      "categories": "Салаты"
+    },
+    {
+      "id": 14,
+      "image": "https://www.gastronom.ru/binfiles/images/20210105/b5968d65.jpg",
+      "title": "Салат с креветками",
+      "description": "В нем нет высококалорийных продуктов",
+      "price": 990,
+      "weight": 250,
+      "protein": 12,
+      "fats": 4,
+      "carbohydrates": 16,
+      "calories": 260,
+      "categories": "Салаты"
+    },
+    {
+      "id": 15,
+      "image": "https://www.gastronom.ru/binfiles/images/20201012/b8ccdbf4.jpg",
+      "title": "Теплый салат",
+      "description": "В нем нет высококалорийных продуктов",
+      "price": 590,
+      "weight": 250,
+      "protein": 12,
+      "fats": 4,
+      "carbohydrates": 16,
+      "calories": 220,
+      "categories": "Салаты"
+    },
+    {
+      "id": 16,
+      "image": "https://www.gastronom.ru/binfiles/images/20170315/be8068cc.jpg",
+      "title": "Цезарь с курицей",
+      "description": "Классический «Цезарь» с курицей сейчас настолько популярен",
+      "price": 690,
+      "weight": 250,
+      "protein": 12,
+      "fats": 4,
+      "carbohydrates": 16,
+      "calories": 270,
+      "categories": "Салаты"
+    },
+    {
+      "id": 17,
+      "image": "https://www.gastronom.ru/binfiles/images/20191227/b90470f4.jpg",
+      "title": "Салат с лососем",
+      "description": "С хрустящим лососем и кунжутным соусом",
+      "price": 770,
+      "weight": 240,
+      "protein": 12,
+      "fats": 4,
+      "carbohydrates": 16,
+      "calories": 220,
+      "categories": "Салаты"
+    },
+    {
+      "title": "Плов",
+      "image": "https://www.gastronom.ru/binfiles/images/20170418/b87bb973.jpg",
+      "description": "Узбекский плов в казане по праву считается самым популярным видом этого блюда.",
+      "price": "230",
+      "weight": "400",
+      "protein": "32",
+      "fats": "72",
+      "carbohydrates": "91",
+      "categories": "hot",
+      "calories": 1140,
+      "id": 18
+    }
+  ],
+  "users": [
+    {
+      "email": "aaa111@mail.ru",
+      "password": "$2a$10$fBBiNRtbcGr06ZIVGMllAO9xGfaWJvVJIUhaHh.VRl9ehVFRuKvp.",
+      "id": 1
+    },
+    {
+      "email": "andrey111@mail.ru",
+      "password": "$2a$10$yOxdExWbeihnrFj9zmwm5u/2WoWbht61DYusn/VKArL2vQ2zV4R/e",
+      "id": 2
+    },
+    {
+      "email": "ufc123@mail.ru",
+      "password": "$2a$10$4BM.HKmCVROG.pboqmlfcOThVJWDS1OssAPcnzpyYCSNncK9bzoS6",
+      "id": 3
+    },
+    {
+      "email": "andreyb@mail.ru",
+      "password": "$2a$10$gPCi4LTYWKn53UrRzlLn.ON.rknzmfnt/4P1EamdjKhnCDwzSw/Rq",
+      "id": 4
+    },
+    {
+      "email": "andrey1234@mail.ru",
+      "password": "$2a$10$AA1LCUzV/nqLm6TxQsYv1eYOvj/D9dzvqowP.sExBnWoOptIHT6ei",
+      "id": 5
+    }
+  ],
+  "sales": [
+    {
+      "id": 1,
+      "image": "./assets/sales/sales1.png",
+      "title": "Без мяса? Здесь!",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту», пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    },
+    {
+      "id": 2,
+      "image": "./assets/sales/sales2.png",
+      "title": "Выгодное комбо c напитками",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту», пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    },
+    {
+      "id": 3,
+      "image": "./assets/sales/sales3.png",
+      "title": "Сырный бортик",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту», пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    },
+    {
+      "id": 4,
+      "image": "./assets/sales/sales3.png",
+      "title": "Сырный бортик",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту», пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    },
+    {
+      "id": 5,
+      "image": "./assets/sales/sales2.png",
+      "title": "Выгодное комбо c напитками",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту», пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    },
+    {
+      "id": 6,
+      "image": "./assets/sales/sales1.png",
+      "title": "Без мяса? Здесь!",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту», пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    },
+    {
+      "id": 7,
+      "image": "./assets/sales/sales2.png",
+      "title": "Выгодное комбо c напитками",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту», пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    },
+    {
+      "id": 8,
+      "image": "./assets/sales/sales1.png",
+      "title": "Без мяса? Здесь!",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту», пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    },
+    {
+      "id": 9,
+      "image": "./assets/sales/sales3.png",
+      "title": "Сырный бортик",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту», пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    }
+  ],
+  "delivery": [
+    {
+      "id": 1,
+      "title": "У наших курьеров всегда должна быть сдача!",
+      "answer": "Мы очень внимательно следим за качеством нашей работы, поэтому, если у вас будут какие-либо замечания или предложения, то обязательно сообщайте их нам"
+    },
+    {
+      "id": 2,
+      "title": "Вам что-то не довезли?",
+      "answer": "Мы очень внимательно следим за качеством нашей работы, поэтому, если у вас будут какие-либо замечания или предложения, то обязательно сообщайте их нам"
+    },
+    {
+      "id": 3,
+      "title": "Не понравился продукт?",
+      "answer": "Мы очень внимательно следим за качеством нашей работы, поэтому, если у вас будут какие-либо замечания или предложения, то обязательно сообщайте их нам"
+    },
+    {
+      "id": 4,
+      "title": "Если появились замечания",
+      "answer": "Мы очень внимательно следим за качеством нашей работы, поэтому, если у вас будут какие-либо замечания или предложения, то обязательно сообщайте их нам"
+    },
+    {
+      "id": 5,
+      "title": "Оплата Visa, MasterCard и МИР",
+      "answer": "Мы очень внимательно следим за качеством нашей работы, поэтому, если у вас будут какие-либо замечания или предложения, то обязательно сообщайте их нам"
+    },
+    {
+      "id": 6,
+      "title": "Реквизиты",
+      "answer": "Мы очень внимательно следим за качеством нашей работы, поэтому, если у вас будут какие-либо замечания или предложения, то обязательно сообщайте их нам"
+    }
+  ]
+}

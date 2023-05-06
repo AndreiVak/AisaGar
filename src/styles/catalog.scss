@@ -1,0 +1,44 @@
+.catalog{
+  padding: 40px 0;
+  &__content{
+    display: flex;
+    column-gap: 20px;
+  }
+  &__aside{
+    width: 100%;
+    max-width: 250px;
+    height: 100vh;
+    background: #618967;
+    display: flex;
+    flex-direction: column;
+    padding: 40px 20px;
+    row-gap: 30px;
+    &-label{
+      width: 100%;
+    }
+    &-select{
+      color: #2E2B2C;
+      width: 100%;
+      height: 40px;
+      background-color: #618967;
+    }
+    &-item{
+      color: black!important;
+    }
+  }
+  &__right{
+    width: calc(100% - 250px);
+  }
+  &__crumbs{
+    margin-bottom: 20px;
+  }
+  &__row{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    .products__card{
+      width: calc(33.33333% - 20px);
+    }
+  }
+}
